@@ -1,4 +1,4 @@
-# SystemVerilog para Treinamento de design e Verifica
+# SystemVerilog para Treinamento de design e Verificação
 
 # Módulos deste Curso
 
